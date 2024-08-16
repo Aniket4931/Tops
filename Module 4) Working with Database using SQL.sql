@@ -1,3 +1,6 @@
+-- Module 4) Working with Database using SQL
+-- ASSESSMENT 
+
 CREATE DATABASE try;
 USE try;
 CREATE TABLE employees (
